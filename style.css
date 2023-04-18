@@ -3,26 +3,44 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: grey;
+    /* background-color: grey; */
 }
 h1{
-    font-weight:;
     font-size: 2.5rem;
+    font-weight: 800;
     padding: 1px;
     display: inline;
     vertical-align: middle;
 }
 header{
     height: 65px;
-    
-    
+
+
 }
 #logo{
     margin: 3px 15px;
     vertical-align: middle;
-   
+
 }
 .white {
     background-color: white;
 
 }
+.separate{
+    height: 2px;
+    background-color:white;
+}
+.pippo{
+    height: 1080px;
+    max-width: 900px;
+    margin:0 auto ;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 5px;
+    padding:  15px 30px;
+}
+
+.list{
+    list-style-type:none;
+}
+
